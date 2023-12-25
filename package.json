@@ -1,0 +1,33 @@
+{
+  "name": "checklists",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "resources": "capacitor-resources -p android,ios"
+  },
+  "dependencies": {
+    "-": "^0.0.1",
+    "@capacitor-community/file-opener": "^1.0.5",
+    "@capacitor/android": "^5.2.2",
+    "@capacitor/camera": "^5.0.6",
+    "@capacitor/cli": "^5.2.2",
+    "@capacitor/core": "^5.2.2",
+    "@capacitor/filesystem": "^5.1.0",
+    "@capacitor/geolocation": "^5.0.6",
+    "@capacitor/ios": "^5.5.1",
+    "@ionic-native/file-opener": "^5.36.0",
+    "@nuxtjs/axios": "^5.13.6",
+    "@nuxtjs/pwa": "^3.3.5",
+    "browser-image-compression": "^2.0.2",
+    "capacitor-resources": "^2.0.5",
+    "core-js": "^3.25.3",
+    "nuxt": "^2.15.8",
+    "vue": "^2.7.10",
+    "vue-server-renderer": "^2.7.10",
+    "vue-template-compiler": "^2.7.10"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "appId": "ru.uralsteel.apps.checklists",
+  "appName": "чек-листы",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  },
+  "windowsAndroidStudioPath": "D:\\Main-files\\Programs\\android-studio\\bin\\studio64.exe"
+}
